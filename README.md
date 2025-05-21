@@ -49,7 +49,7 @@ This can help fans, broadcasters, and analysts get insights into potential outco
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ipl-score-prediction.git
+git clone https://github.com/mdShahzeb2111/IPL-Score-Prediction-Using-ML/edit/master.git
 cd ipl-score-prediction
 
 # Install dependencies
